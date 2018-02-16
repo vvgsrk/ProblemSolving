@@ -1,3 +1,5 @@
+﻿/*
+
 Problem:     https://codility.com/demo/take-sample-test/
 --------
 
@@ -25,6 +27,8 @@ expected worst-case space complexity is O(N), beyond input storage (not counting
 Solution:
 ---------
 
+*/
+
 import scala.collection.JavaConverters._
 
 // you can write to stdout for debugging purposes, e.g.
@@ -51,8 +55,7 @@ object Solution {
   }
 }
 
+/*
 Your code is syntactically correct and works properly on the example test.
 Note that the example tests are not part of your score. On submission at least 8 test cases not shown here will assess your solution.
-
-
-
+*/
