@@ -1,3 +1,5 @@
+﻿/*
+
 Problem:
 --------
 
@@ -53,6 +55,8 @@ Copyright 2009–2017 by Codility Limited. All Rights Reserved. Unauthorized cop
 
 Solution:
 ---------
+
+*/
 
 object Solution {
   def solution(a: Array[Int]): Int = {
